@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+   background-color: #63d481;
+}
+
+h1{
+  border: 3px dotted green;
+  padding: 20px;
+  margin: 25px;
+}
+
+
+h2{
+  border: 3px dotted green;
+  padding: 20px;
+  margin: 25px;
+}
+
+img{
+  width: 200px;
+}
